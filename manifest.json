@@ -4,8 +4,9 @@
   "name": "Yell Shake",
   "version": "2.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
   ],
