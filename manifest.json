@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Sits still until the audio peaks, then shakes hard — the caption only reacts when someone actually yells.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
